@@ -61,9 +61,9 @@ Nach dem Import der Northwind-Daten in eine neue PostgreSQL-Datenbank sollten ve
 
 | Datei | Beschreibung |
 |-------|--------------|
-| **/tabellen/** | DBeaver-Projektdateien inkl. Tabellenstruktur & Keys |
+| **Tabellen.sql** | DBeaver-Projektdateien inkl. Tabellenstruktur & Keys |
 | **daten.ipynb** | Notebook mit geografischen Auswertungen (GeoPandas/Matplotlib) |
-| **praesentation.pdf** | Abschlusspräsentation |
+| **Präsentation.pptx** | Abschlusspräsentation |
 
 ---
 
