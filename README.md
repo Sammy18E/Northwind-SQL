@@ -1,6 +1,5 @@
 # Northwind SQL Projekt  
 **Modul: Datenbanken & SQL**  
-**Tools: PostgreSQL · DBeaver · Jupyter Notebook · GeoPandas · Matplotlib**
 
 ---
 
@@ -62,8 +61,8 @@ Nach dem Import der Northwind-Daten in eine neue PostgreSQL-Datenbank sollten ve
 | Datei | Beschreibung |
 |-------|--------------|
 | **Tabellen.sql** | DBeaver-Projektdateien inkl. Tabellenstruktur & Keys |
-| **daten.ipynb** | Notebook mit geografischen Auswertungen (GeoPandas/Matplotlib) |
-| **Präsentation.pptx** | Abschlusspräsentation |
+| **daten.ipynb** | Analyse-Notebook mit geografischen Visualisierungen |
+| **Präsentation.pptx** | Abschlusspräsentation des Projekts |
 
 ---
 
@@ -90,8 +89,8 @@ Meine Aufgaben im Projekt:
 - Löschen der alten Northwind-Datenbank  
 - Import des „clean“-Datensatzes  
 - Modellierung & Verknüpfung aller Tabellen über Keys  
-- Unterstützung von Teamkollegen bei Analyseabfragen  
-- Mitwirkung an der finalen Präsentation
+- Unterstützung meiner Teamkollegen bei der Erstellung von Analyseabfragen  
+- Beitrag zur Abschlusspräsentation
 
 ---
 
@@ -102,15 +101,10 @@ Meine Aufgaben im Projekt:
 - **Python**  
 - **Pandas / GeoPandas**  
 - **Matplotlib**  
-- **Git & GitHub**
 
 ---
 
-## 8. Screenshots *(optional)*  
-Hier können später Screenshots der Tabellen oder Visualisierungen ergänzt werden.
+## Zusammenfassung
 
----
-
-## Fertig  
-Dieses Repository dokumentiert die vollständige Umsetzung des Northwind-SQL-Projekts mit Datenmodellierung, Analyse und ergänzender Visualisierung.
-
+Das Projekt zeigt die vollständige Umsetzung eines relationalen Datenbanksystems in PostgreSQL – von der Modellierung über das Setzen der Beziehungen bis hin zu analytischen SQL-Abfragen.
+Die Northwind-Datenbank bietet ein realistisches Szenario, um praktische Erfahrungen in Datenbanken, SQL-Abfragen und relationalem Denken zu sammeln.
